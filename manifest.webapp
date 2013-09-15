@@ -1,0 +1,20 @@
+{
+	"version": "0.1",
+	"name": "Run, Forrest, Run!",
+	"description": "Run as Forrest Gump!",
+	"launch_path": "/index.html",
+	"appcache_path": "/offline.appcache",
+	"icons": {
+		"16": "/img/icons/rfr-16.png",
+		"48": "/img/icons/rfr-48.png",
+		"128": "/img/icons/rfr-128.png"
+	},
+	"developer": {
+		"name": "Marek mrshu Šuppa",
+		"url": "http://github.com/mrshu/rfr"
+	},
+	"installs_allowed_from": ["*"],
+	"default_locale": "en",
+	"permissions": {
+	}
+}
